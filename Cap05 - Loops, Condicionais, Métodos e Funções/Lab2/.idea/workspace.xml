@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f19031e5-c532-444b-9a49-783976b99436" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Cap02/DSA-Python-Cap02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap02/Teste.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap02/imagens/Lab1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/.ipynb_checkpoints/DSA-Python-Cap03-01-Intro-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/71-Cap03.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/DSA-Python-Cap03-01-Intro.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/DSA-Python-Cap03.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/.ipynb_checkpoints/DSA-Python-Cap04-01-Numeros-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/.ipynb_checkpoints/DSA-Python-Cap04-02-Variaveis-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/.ipynb_checkpoints/DSA-Python-Cap04-03-Strings-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/.ipynb_checkpoints/DSA-Python-Cap04-04-Listas-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/.ipynb_checkpoints/DSA-Python-Cap04-05-Dicionarios-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/.ipynb_checkpoints/DSA-Python-Cap04-06-Tuplas-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/.ipynb_checkpoints/DSA-Python-Cap04-Exercicios-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/DSA-Python-Cap04-01-Numeros.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/DSA-Python-Cap04-02-Variaveis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/DSA-Python-Cap04-03-Strings.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/DSA-Python-Cap04-04-Listas.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/DSA-Python-Cap04-05-Dicionarios.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/DSA-Python-Cap04-06-Tuplas.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/DSA-Python-Cap04-Exercicios-Solucao.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/DSA-Python-Cap04-Exercicios.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2R6p7LpMp7EQJA7K751UvbGT9gv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f19031e5-c532-444b-9a49-783976b99436" name="Changes" comment="" />
+      <created>1686580217483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686580217483</updated>
+    </task>
+    <servers />
+  </component>
+</project>
